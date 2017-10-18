@@ -8,5 +8,5 @@ function updatePlaylist (playlist, artistName, songTitle){
 
 
 function removeFromPlaylist(playlist, artistName){
-  console.log(delete playlist.artistName)
+  console.log(delete playlist.Kanye)
       }
